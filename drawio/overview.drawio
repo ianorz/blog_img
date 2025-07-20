@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="71F7B3VCoWiLTkJk2E0s-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="71F7B3VCoWiLTkJk2E0s-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="427.66" y="280" width="184.34" height="277" as="geometry" />
         </mxCell>
         <mxCell id="LFoxKv-itOleKpuQYaAl-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
@@ -83,7 +83,7 @@
           <mxGeometry x="737.5" y="280" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71F7B3VCoWiLTkJk2E0s-59" value="&lt;b&gt;Constraint Extraction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="435.32" y="531" width="144.68" height="30" as="geometry" />
+          <mxGeometry x="442.15" y="535.22" width="144.68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71F7B3VCoWiLTkJk2E0s-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="71F7B3VCoWiLTkJk2E0s-63" target="71F7B3VCoWiLTkJk2E0s-3" edge="1">
           <mxGeometry relative="1" as="geometry">
